@@ -143,7 +143,8 @@ const Panel = ({restaurantData, filterBySpecialty, cbFilterBySpecialty, cbClearD
                         <Row>
                             <Col sm="auto">2019</Col>
                             <Col>
-                                <a href={'https://github.com/mjohnre'}><span>Github Page by John Mugar</span></a>
+                                <span>A Github Page by</span> <a
+                                href={'https://github.com/mjohnre'}><span>John Mugar</span></a>
                             </Col>
                         </Row>
                     </Card.Footer>
