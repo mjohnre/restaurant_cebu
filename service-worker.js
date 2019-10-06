@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/restaurant_cebu/precache-manifest.49d909f7e080f782ac816d088bc1f925.js"
+  "/restaurant_cebu/precache-manifest.d79b8944048f24e5f7eb017e4efaa3d8.js"
 );
 
 self.addEventListener('message', (event) => {

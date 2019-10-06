@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0bbfbf9396f8dcba1fca835ef3bfc25f",
+    "revision": "0667a39a5f41735e0a866717a16be802",
     "url": "/restaurant_cebu/index.html"
   },
   {
-    "revision": "cadb864a4e2dc538751d",
+    "revision": "409c09a8d2b9b1869512",
     "url": "/restaurant_cebu/static/css/main.8bc5374c.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/restaurant_cebu/static/js/2.9b895198.chunk.js"
   },
   {
-    "revision": "cadb864a4e2dc538751d",
-    "url": "/restaurant_cebu/static/js/main.d30eaee7.chunk.js"
+    "revision": "409c09a8d2b9b1869512",
+    "url": "/restaurant_cebu/static/js/main.0bb267e5.chunk.js"
   },
   {
     "revision": "4c1bb59302b652d96ac2",
