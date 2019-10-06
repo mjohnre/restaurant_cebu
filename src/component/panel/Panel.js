@@ -118,7 +118,7 @@ const Panel = ({restaurantData, filterBySpecialty, cbFilterBySpecialty, cbClearD
                         <Row>
                             <Col>
                                 <Button variant="success"
-                                        disabled={btnTitleRevenue.includes('Hide')}
+                                        disabled={btnTitleDrawingTool.includes('Hide') || btnTitleRevenue.includes('Hide')}
                                         onClick={() => {
                                             setBtnTitleVisit(btnTitleVisit.includes('Show') ? 'Hide Visit' : 'Show Visit');
                                             cbShowAnalyticsVisit();
@@ -131,7 +131,7 @@ const Panel = ({restaurantData, filterBySpecialty, cbFilterBySpecialty, cbClearD
                         <Row>
                             <Col>
                                 <Button variant="success"
-                                        disabled={btnTitleVisit.includes('Hide')}
+                                        disabled={btnTitleDrawingTool.includes('Hide') || btnTitleVisit.includes('Hide')}
                                         onClick={() => {
                                             setBtnTitleRevenue(btnTitleRevenue.includes('Show') ? 'Hide Revenue' : 'Show Revenue');
                                             cbShowAnalyticsRevenue();
