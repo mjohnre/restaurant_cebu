@@ -139,6 +139,14 @@ const Panel = ({restaurantData, filterBySpecialty, cbFilterBySpecialty, cbClearD
                             </Col>
                         </Row>
                     </Card.Body>
+                    <Card.Footer>
+                        <Row>
+                            <Col sm="auto">2019</Col>
+                            <Col>
+                                <a href={'https://github.com/mjohnre'}><span>Github Page by John Mugar</span></a>
+                            </Col>
+                        </Row>
+                    </Card.Footer>
                 </Card>
             </Collapse>
         </div>
