@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/restaurant_cebu/static/css/main.8bc5374c.chunk.css",
-    "main.js": "/restaurant_cebu/static/js/main.21ac55ae.chunk.js",
-    "main.js.map": "/restaurant_cebu/static/js/main.21ac55ae.chunk.js.map",
+    "main.js": "/restaurant_cebu/static/js/main.d30eaee7.chunk.js",
+    "main.js.map": "/restaurant_cebu/static/js/main.d30eaee7.chunk.js.map",
     "runtime-main.js": "/restaurant_cebu/static/js/runtime-main.8ea4badd.js",
     "runtime-main.js.map": "/restaurant_cebu/static/js/runtime-main.8ea4badd.js.map",
-    "static/js/2.302a68a4.chunk.js": "/restaurant_cebu/static/js/2.302a68a4.chunk.js",
-    "static/js/2.302a68a4.chunk.js.map": "/restaurant_cebu/static/js/2.302a68a4.chunk.js.map",
+    "static/js/2.9b895198.chunk.js": "/restaurant_cebu/static/js/2.9b895198.chunk.js",
+    "static/js/2.9b895198.chunk.js.map": "/restaurant_cebu/static/js/2.9b895198.chunk.js.map",
     "index.html": "/restaurant_cebu/index.html",
-    "precache-manifest.b48bc062379ca64da67b9ad48cb91821.js": "/restaurant_cebu/precache-manifest.b48bc062379ca64da67b9ad48cb91821.js",
+    "precache-manifest.49d909f7e080f782ac816d088bc1f925.js": "/restaurant_cebu/precache-manifest.49d909f7e080f782ac816d088bc1f925.js",
     "service-worker.js": "/restaurant_cebu/service-worker.js",
     "static/css/main.8bc5374c.chunk.css.map": "/restaurant_cebu/static/css/main.8bc5374c.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.8ea4badd.js",
-    "static/js/2.302a68a4.chunk.js",
+    "static/js/2.9b895198.chunk.js",
     "static/css/main.8bc5374c.chunk.css",
-    "static/js/main.21ac55ae.chunk.js"
+    "static/js/main.d30eaee7.chunk.js"
   ]
 }
